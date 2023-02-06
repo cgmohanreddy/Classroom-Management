@@ -1,6 +1,6 @@
 # Fullstack Class Management WebApp
 
-Here you need to identify the schema/model fields by observing the UIs. The goal of this assignment is to build **A Class Management Webapp** in which you are free to play with the sample data as much as possible.
+Here you need to identify the schema/model fields by observing the UIs. Use any of the tech-stack you prefer for Frontend, Backend and Database. The goal of this assignment is to build **A Class Management Webapp** in which you are free to play with the sample data as much as possible.
 
 <img src="class_mng1.png" />
 <img src="classmng2.png" />
@@ -37,7 +37,7 @@ Here you need to identify the schema/model fields by observing the UIs. The goal
 
 <hr>
 
-- **fork** current problem repository, and make it **private**.
+- **fork** current problem repository vefore pushing the code.
 - Brownie points to deployed webapps (If you can, but not mandatory).
 - **Add `nitesh5695smilebots` as collaborator while intializing repository in github. and follow the given timeline instructions from your mail.**
 
