@@ -1,6 +1,6 @@
-# class management webapp using Spring boot + Angular + postgresql or mysql
+# Fullstack Class Management WebApp
 
-Here you need to identify the schema/model fields by observing the UIs, The goal of this assignment is to build **website** for a **Class Management** site in which you are free to play with as much as possible your sample data.
+Here you need to identify the schema/model fields by observing the UIs. The goal of this assignment is to build **A Class Management Webapp** in which you are free to play with the sample data as much as possible.
 
 <img src="class_mng1.png" />
 <img src="classmng2.png" />
